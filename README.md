@@ -1,3 +1,4 @@
+![logo](https://github.com/sumitguptadev/sumitguptadev/blob/main/Git-Hub-Banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Gupta</h1>
 <h3 align="center">Aspiring Software Engineer | C++ | DSA | MERN Stack Developer</h3>
 
