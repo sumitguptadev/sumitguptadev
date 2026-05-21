@@ -50,9 +50,77 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitguptadev&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitguptadev&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitguptadev&layout=compact&theme=tokyonight" />
-</p>
+# 🚀 Developer Insights
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=GitHub%20Overview&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sumitguptadev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="100%" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitguptadev&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitguptadev&theme=tokyonight" width="100%" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitguptadev&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumitguptadev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f778ba&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumitguptadev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+
+</div>
+
