@@ -50,31 +50,13 @@
 
 ---
 
-# 🚀 Developer Insights
+
+
+### 🚀 Developer Insights
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=GitHub%20Overview&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sumitguptadev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="100%" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitguptadev&theme=tokyonight" width="100%" />
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=GitHub%20Analytics&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -82,23 +64,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img width="49%" src="https://streak-stats.demolab.com?user=sumitguptadev&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitguptadev&theme=tokyonight" width="100%" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitguptadev&theme=tokyonight" width="100%" />
-
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumitguptadev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitguptadev&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 
 ---
 
