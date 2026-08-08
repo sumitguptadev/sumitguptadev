@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
 </a>
 
-<a href="https://instagram.com/its.gupta.x">
+<a href="https://instagram.com/heyyitsgupta">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
 </a>
 
